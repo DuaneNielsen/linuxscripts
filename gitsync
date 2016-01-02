@@ -1,0 +1,3 @@
+git add *
+git commit -m "synch by script"
+git push origin master
